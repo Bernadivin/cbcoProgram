@@ -1,5 +1,5 @@
 # cbcoProgram
-{"categories":[{"name":"Movies","videos":[{"descriptions":"06H00","sources":["https://"],"subtitle":"LUNDI","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"PRIERE MATINAL"},
+{"categories":[{"name":"Movies","videos":[{"description":"06H00","sources":["https://"],"subtitle":"LUNDI","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"PRIERE MATINAL"},
 
 {"description":"07H00","sources":["https://e/playlist.m3u8"],"subtitle":"LUNDI","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"ANIMATION MATINAL"},
 
